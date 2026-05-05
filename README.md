@@ -26,7 +26,7 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  
 #### 🗄️ Banco de Dados
-[![MongoDB](https://www.mongodb.com/assets/images/global/favicon.ico)]
+![MongoDB](https://www.mongodb.com/assets/images/global/favicon.ico)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
