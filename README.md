@@ -1,4 +1,4 @@
-# [ Murillo Mendonça Mascarenha ]
+# [Murillo Mendonça Mascarenha]
 > Estudante de Enhenharia de Software
  
 ---
