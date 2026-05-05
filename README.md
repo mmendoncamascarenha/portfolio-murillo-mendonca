@@ -5,13 +5,13 @@
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-mendon%C3%A7a-mascarenha-7351482b4/)
-[![E-mail](mmenconcamascarenha@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 1º período de Engenharia de Software na Universidade Cidade de São Paulo (Unicid). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
