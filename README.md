@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# [ Murillo Mendonça Mascarenha ]
+> Estudante de Enhenharia de Software
  
 ---
  
