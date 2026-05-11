@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre
 
-Atualmente estudando Engenharia de Software e cursando Técnico em Informática, com foco em desenvolvimento de software, banco de dados e aplicações desktop.
+Atualmente estudando Engenharia de Software e formado em Técnico em Informática, com foco em desenvolvimento de software, banco de dados e aplicações desktop.
 
 Tenho interesse em desenvolvimento Full Stack, Engenharia de Software e Inteligência Artificial, buscando sempre criar projetos organizados, funcionais e com boa experiência para o usuário.
 
